@@ -1,1 +1,15 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"io.github.kareniapaz2_create.medaelviaje","sha256_cert_fingerprints":["D3:3C:41:6D:7F:20:0B:0B:D5:A7:F2:E1:20:DE:36:AE:04:2B:D4:AE:1E:CC:97:93:EA:08:F6:51:B3:61:29:45"]}}]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.kareniapaz2_create.medaelviaje",
+      "sha256_cert_fingerprints": [
+        "D3:3C:41:6D:7F:20:0B:0B:D5:A7:F2:E1:20:DE:36:AE:04:2B:D4:AE:1E:CC:97:93:EA:08:F6:51:B3:61:29:45",
+        "A2:28:F3:87:38:89:8B:71:6F:02:7F:2F:68:81:3C:66:CF:FB:88:D9:60:D6:6D:AF:10:C7:59:50:88:C0:8C:02"
+      ]
+    }
+  }
+]
